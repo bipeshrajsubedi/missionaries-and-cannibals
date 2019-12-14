@@ -1,0 +1,56 @@
+
+
+Breadth first search : 
+
+expanded Nodes: 15
+explored Nodes: 15
+
+
+
+Depth:0 State (3, 3, 1, 0, 0) 
+
+ 1 missionaries and 1 cannibals from the left side to the right side of the river are taken
+
+Depth:1 State (3, 1, 0, 1, 1)
+
+ 1 missionaries and 0 cannibals from right side to the left side of the river  are taken
+
+Depth:2 State (3, 2, 1, 0, 1) 
+
+ 0 missionaries and 2 cannibals from the left side to the right side of the river are taken
+
+Depth:3 State (3, 0, 0, 0, 3) 
+
+ 0 missionaries and 1 cannibals from right side to the left side of the river  are taken
+
+Depth:4 State (3, 1, 1, 0, 2) 
+
+ 2 missionaries and 0 cannibals from the left side to the right side of the river are taken
+
+Depth:5 State (1, 1, 0, 2, 2) 
+
+ 1 missionaries and 1 cannibals from right side to the left side of the river  are taken
+
+Depth:6 State (2, 2, 1, 1, 1) 
+
+ 2 missionaries and 0 cannibals from the left side to the right side of the river are taken
+
+Depth:7 State (0, 2, 0, 3, 1) 
+
+ 0 missionaries and 1 cannibals from right side to the left side of the river  are taken
+
+Depth:8 State (0, 3, 1, 3, 0) 
+
+ 0 missionaries and 2 cannibals from the left side to the right side of the river are taken
+
+Depth:9 State (0, 1, 0, 3, 2) 
+
+ 1 missionaries and 0 cannibals from right side to the left side of the river  are taken
+
+Depth:10 State (0, 2, 1, 2, 2)
+
+ 1 missionaries and 1 cannibals from the left side to the right side of the river are taken
+
+Depth:11 State (0, 0, 0, 3, 3) 
+
+ Total time in BFS: 0.25ms
